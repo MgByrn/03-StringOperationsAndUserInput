@@ -35,7 +35,7 @@ print(txt)
 txt = "  The quick brown fox jumps over the lazy dog.  "
 print(txt[6:11])
 ###############################################################################
-# TODO: 3. (1 pt)
+# DONE: 3. (1 pt)
 #   Let's add another sentence to our string.
 #
 #   Immediately below this _TODO_, write code that:
